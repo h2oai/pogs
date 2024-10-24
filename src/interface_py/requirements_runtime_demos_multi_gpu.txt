@@ -27,7 +27,7 @@ joblib>=1.1.1
 numba==0.57.1
 llvmlite==0.40.1
 # the same version as scikit-learn fork
-scikit-learn==1.3.2
+scikit-learn==1.5.0
 #xgboost dask
 dask-cuda==0.12.0
 dask[dataframe]==2.11.0
