@@ -14,7 +14,7 @@ seaborn==0.8.1
 feather-format==0.4.1
 psutil==5.9.7
 # for jupiter notebooks
-pillow==9.5.0
+pillow==10.3.0
 #below for h2o4gpu
 pandas==1.5.3
 numpy==1.23.5

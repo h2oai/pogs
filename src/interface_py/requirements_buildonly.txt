@@ -2,7 +2,7 @@ numpydoc==1.6.0
 sphinx==5.3.0
 sphinx_rtd_theme==0.5.2
 Jinja2<3.1
-pillow==9.5.0
+pillow==10.3.0
 wheel==0.33.4
 cython==3.0.8
 pandas==1.5.3
